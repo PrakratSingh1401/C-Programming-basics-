@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(){
+
+  // COMMENTING in C is with forward slash
+  /* this is
+   multi line 
+   comment*/
+  
+  printf("Hello World !!\n") ;
+  printf("I'm Prakrat Singh Sengar");
+
+  return 0 ;
+
+}
